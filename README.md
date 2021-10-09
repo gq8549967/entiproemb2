@@ -2,4 +2,4 @@
 
 - this is a readme file.
 - nice file.
-- cause a conflict!
+- amazing file.
