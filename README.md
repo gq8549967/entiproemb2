@@ -1,2 +1,3 @@
 # entiproemb2
-練習用リポジトリ２
+
+- this is a readme file.
